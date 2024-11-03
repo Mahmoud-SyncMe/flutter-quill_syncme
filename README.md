@@ -285,7 +285,7 @@ package [`flutter_quill_extensions`](https://pub.dev/packages/flutter_quill_exte
 
 ### 🛠️ Using the embed blocks from `flutter_quill_extensions`
 
-To see how to use the extension package, please take a look at the [README](./flutter_quill_extensions/README.md)
+To see how to use the extension package, please take a look at the [README](flutter_quill_extensions_syncme/README.md)
 of [FlutterQuill Extensions]
 
 ### 🔗 Links

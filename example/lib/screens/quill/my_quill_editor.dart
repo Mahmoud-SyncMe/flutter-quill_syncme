@@ -5,11 +5,11 @@ import 'package:cached_network_image/cached_network_image.dart'
 import 'package:desktop_drop/desktop_drop.dart' show DropTarget;
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
-import 'package:flutter_quill/flutter_quill.dart';
-import 'package:flutter_quill/flutter_quill_internal.dart';
-import 'package:flutter_quill_extensions/flutter_quill_extensions.dart';
+import 'package:flutter_quill_syncme/flutter_quill_syncme.dart';
+import 'package:flutter_quill_syncme/flutter_quill_internal.dart';
+import 'package:flutter_quill_extensions_syncme/flutter_quill_extensions_syncme.dart';
 // ignore: implementation_imports
-import 'package:flutter_quill_extensions/src/editor/image/widgets/image.dart'
+import 'package:flutter_quill_extensions_syncme/src/editor/image/widgets/image.dart'
     show getImageProviderByImageSource, imageFileExtensions;
 import 'package:path/path.dart' as path;
 

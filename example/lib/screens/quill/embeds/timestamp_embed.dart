@@ -2,7 +2,7 @@ import 'dart:convert' show jsonDecode, jsonEncode;
 
 import 'package:flutter/material.dart' show Icons;
 import 'package:flutter/widgets.dart';
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill_syncme/flutter_quill_syncme.dart';
 
 class TimeStampEmbed extends Embeddable {
   const TimeStampEmbed(

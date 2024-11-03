@@ -192,7 +192,7 @@ QuillToolbar.basic(
 ### 根据 `flutter_quill_extensions` 使用图片、视频、公式等自定义嵌入块
 
 ```dart
-import 'package:flutter_quill_extensions/flutter_quill_extensions.dart';
+import 'package:flutter_quill_extensions/flutter_quill_extensions_syncme.dart';
 
 QuillEditor.basic(
   controller: controller,
