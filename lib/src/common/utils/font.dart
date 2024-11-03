@@ -1,4 +1,4 @@
-import '../../../flutter_quill.dart';
+import '../../../flutter_quill_syncme.dart';
 
 dynamic getFontSize(dynamic sizeValue) {
   if (sizeValue is String &&

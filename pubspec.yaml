@@ -1,4 +1,4 @@
-name: flutter_quill
+name: flutter_quill_syncme
 description: "A rich text editor built for Android, iOS, Web, and desktop platforms. It's the WYSIWYG editor and a Quill component for Flutter."
 version: 10.8.5
 homepage: https://github.com/singerdmx/flutter-quill/
@@ -60,7 +60,7 @@ dependencies:
 
   # Plugins
   url_launcher: ^6.2.4
-  flutter_keyboard_visibility_temp_fork: ^0.1.1
+  flutter_keyboard_visibility_syncme: ^0.1.1
   quill_native_bridge: ^10.7.9
 
 dev_dependencies:

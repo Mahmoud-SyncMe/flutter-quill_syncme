@@ -10,7 +10,7 @@ import 'package:flutter/rendering.dart'
 import 'package:flutter/services.dart' show ClipboardData, Clipboard;
 import 'package:url_launcher/url_launcher_string.dart' show launchUrlString;
 
-import '../../../../flutter_quill.dart';
+import '../../../../flutter_quill_syncme.dart';
 import '../../../common/utils/color.dart';
 import '../../../common/utils/font.dart';
 import '../../../common/utils/platform.dart';

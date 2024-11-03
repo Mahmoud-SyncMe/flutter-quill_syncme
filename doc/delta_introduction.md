@@ -119,7 +119,7 @@ deletion.
 Example of `Delete` operation using `QuillController`
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 import 'package:flutter_quill/quill_delta.dart';
 
 QuillController _quillController = QuillController(
@@ -185,7 +185,7 @@ Retain operations are useful for various tasks in document editing, such as:
 Using Directly `Delta` class:
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 import 'package:flutter_quill/quill_delta.dart';
 
 void main() {

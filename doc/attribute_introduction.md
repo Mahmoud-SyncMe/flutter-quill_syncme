@@ -79,7 +79,7 @@ it [here](https://github.com/singerdmx/flutter-quill/blob/master/doc/custom_embe
 ##### The Attribute
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 
 const String highlightKey = 'highlight';
 const AttributeScope highlightScope = AttributeScope.inline;

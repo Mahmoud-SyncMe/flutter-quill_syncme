@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
 
-import '../../../../../flutter_quill.dart';
+import '../../../../../flutter_quill_syncme.dart';
 
 typedef CharacterShortcutEventHandler = bool Function(
     QuillController controller);

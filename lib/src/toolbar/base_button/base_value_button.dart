@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../flutter_quill.dart';
+import '../../../flutter_quill_syncme.dart';
 
 /// The [T] is the options for the button
 /// The [E] is the extra options for the button

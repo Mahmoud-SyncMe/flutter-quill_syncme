@@ -7,7 +7,7 @@ In this example, text that starts and ends with an asterisk ( * ) character will
 Let's start with a empty document:
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 import 'package:flutter/material.dart';
 
 class AsteriskToItalicStyle extends StatelessWidget {
@@ -38,7 +38,7 @@ To implement our shortcut event we will create a `CharacterShortcutEvent` instan
 We need to define key and character in a `CharacterShortcutEvent` object to customize hotkeys. We recommend using the description of your event as a key. For example, if the asterisk `*` is defined to make text italic, the key can be 'Asterisk to italic'.
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 import 'package:flutter/material.dart';
 
 // [handleFormatByWrappingWithSingleCharacter] is a example function that contains 
@@ -65,7 +65,7 @@ CharacterShortcutEvent asteriskToItalicStyleEvent = CharacterShortcutEvent(
 Now our 'asterisk handler' function is done and the only task left is to inject it into the `QuillEditorConfigurations`.
 
 ```dart
-import 'package:flutter_quill/flutter_quill.dart';
+import 'package:flutter_quill/flutter_quill_syncme.dart';
 import 'package:flutter/material.dart';
 
 class AsteriskToItalicStyle extends StatelessWidget {

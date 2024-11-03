@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_quill/flutter_quill.dart';
-import 'package:flutter_quill/quill_delta.dart';
-import 'package:flutter_quill/src/rules/insert.dart';
+import 'package:flutter_quill_syncme/flutter_quill_syncme.dart';
+import 'package:flutter_quill_syncme/quill_delta.dart';
+import 'package:flutter_quill_syncme/src/rules/insert.dart';
 import 'package:test/test.dart';
 
 void main() {

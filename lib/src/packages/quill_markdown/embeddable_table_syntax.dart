@@ -1,7 +1,7 @@
 import 'package:charcode/charcode.dart';
 import 'package:markdown/markdown.dart';
 
-import '../../../flutter_quill.dart' hide Node;
+import '../../../flutter_quill_syncme.dart' hide Node;
 
 /// Parses markdown table and saves the table markdown content into the element attributes.
 class EmbeddableTableSyntax extends BlockSyntax {

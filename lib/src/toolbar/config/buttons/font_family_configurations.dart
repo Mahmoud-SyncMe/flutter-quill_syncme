@@ -11,7 +11,7 @@ import 'package:flutter/widgets.dart'
         ValueChanged,
         VoidCallback;
 
-import '../../../../flutter_quill.dart';
+import '../../../../flutter_quill_syncme.dart';
 
 @immutable
 class QuillToolbarFontFamilyButtonExtraOptions

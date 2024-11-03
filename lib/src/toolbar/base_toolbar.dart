@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../flutter_quill.dart'
+import '../../flutter_quill_syncme.dart'
     show QuillToolbarProvider, kDefaultToolbarSize;
 import '../controller/quill_controller.dart';
 import '../l10n/widgets/localizations.dart';

@@ -2,8 +2,8 @@ import 'dart:convert' show jsonDecode;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_quill/flutter_quill.dart';
-import 'package:flutter_quill/translations.dart';
+import 'package:flutter_quill_syncme/flutter_quill_syncme.dart';
+import 'package:flutter_quill_syncme/translations.dart';
 import 'package:flutter_quill_test/flutter_quill_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 
